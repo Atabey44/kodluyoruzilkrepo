@@ -1,6 +1,7 @@
 # Kodluyoruz - FrontEnd 101 Eğitimi
 > Gazi ATABEY
 
+
 ## Eğitimin Genel Hedefi:
 * Yazılım Dünyasına yeni adım atan kişiler için temel konuların incelenmesi
 * roadmap.sh ile hedeflerini kontrol etmelerini sağlamak
